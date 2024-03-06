@@ -26,3 +26,7 @@ Dataset is collected from Caggle:
 Zero(0) represents real news.
 
 One(1) represents fake news.
+
+*2)Pre-Processing of Data-**
+
+Data preprocessing state is very important to make data capable of fedding to the machine learning model. It involves a)Train_Test_Split b)Handling Missing Values c)Handling Categorical Feature d)Normalization of dataset etc.
