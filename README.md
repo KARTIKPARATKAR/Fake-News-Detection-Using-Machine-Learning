@@ -7,3 +7,5 @@
 ## Problem Statement : 
 We are living in a world of social media where lot of information is available. Those information/news have a capacity of changing the minds, making a wrong perspective or decision , being involved in a wrong things and disguduide the user. This work is done to detect those fake news and aware the social media user from such misinformation on the social media. So constructing a machine learning model which will tell the user whether the news is fake or not.
 ***
+![fake news](https://github.com/KARTIKPARATKAR/Fake-News-Detection-Using-Machine-Learning/assets/100400207/f85dd273-231c-48a0-86ec-94d838a52ffe)
+***
