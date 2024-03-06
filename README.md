@@ -60,6 +60,8 @@ One(1) represents fake news.
 
 
   I have made a predictive system which will print the output as whether a news is fake or real and it is shown below.
+  ![predictive system](https://github.com/KARTIKPARATKAR/Fake-News-Detection-Using-Machine-Learning/assets/100400207/f0bf10e2-7ddb-4f7d-aaf0-e9ef0bc2ca65)
+
   
   
   
