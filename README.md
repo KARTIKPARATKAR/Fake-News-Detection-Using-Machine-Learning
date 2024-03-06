@@ -50,8 +50,9 @@ One(1) represents fake news.
 * Then I will train the model on training data and find the accuracy on training data.
 * Similarly we will train the model on testing data and find the accuracy on tescting data.
 
-  **4)Model Evaluation:**
+**4)Model Evaluation:**
   I got a accuracy score of 0.98659 on training data and it is shown below.
+  
   
   I got a accuracy score of 0.9790 on testing data and it is shown below.
   I have made a predictive system which will print the output as whether a news is fake or real and it is shown below.
