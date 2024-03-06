@@ -9,3 +9,13 @@ We are living in a world of social media where lot of information is available. 
 ***
 ![fake news](https://github.com/KARTIKPARATKAR/Fake-News-Detection-Using-Machine-Learning/assets/100400207/f85dd273-231c-48a0-86ec-94d838a52ffe)
 ***
+## **Steps involved in construction of the model are as follows:** ##
+
+**1)Fake-News Dataset:**
+Dataset is collected from Caggle: 1 Each news article has unique id
+2 Each news has its ows title
+3 Each news has text which might be wrong
+4 Each news has author
+5 Each news has label which make news whether it is true or false.
+Zero(0) represents real news.
+One(1) represents fake news.
