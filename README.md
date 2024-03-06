@@ -12,10 +12,17 @@ We are living in a world of social media where lot of information is available. 
 ## **Steps involved in construction of the model are as follows:** ##
 
 **1)Fake-News Dataset:**
-Dataset is collected from Caggle: 1 Each news article has unique id
+Dataset is collected from Caggle: 
+1 Each news article has unique id
+
 2 Each news has its ows title
+
 3 Each news has text which might be wrong
+
 4 Each news has author
+
 5 Each news has label which make news whether it is true or false.
+
 Zero(0) represents real news.
+
 One(1) represents fake news.
