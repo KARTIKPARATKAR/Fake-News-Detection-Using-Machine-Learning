@@ -56,8 +56,11 @@ One(1) represents fake news.
   
   
   I got a accuracy score of 0.9790 on testing data and it is shown below.
-  
+  ![testData](https://github.com/KARTIKPARATKAR/Fake-News-Detection-Using-Machine-Learning/assets/100400207/29598724-4701-4678-9b8d-286146b00ed4)
+
+
   I have made a predictive system which will print the output as whether a news is fake or real and it is shown below.
+  
   
   
 
